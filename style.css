@@ -14,7 +14,7 @@ body{
 }
 #header{
     width: 100%;
-    height: 90vh;
+    height: 100vh;
     background-image: url(images/webbanner1.png);
     background-size: cover;
     background-position: center;
@@ -73,7 +73,7 @@ nav  .fa-solid{
     height: 0px;
 }
 .web_banner img{
-    width: 100%;
+    width: 90%;
 }
  .header_text{
     margin-top: 20%;
