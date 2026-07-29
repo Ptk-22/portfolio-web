@@ -17,7 +17,8 @@ body{
     height: 100vh;
 
     background-image: url(images/webbanner1.png);
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeate;
     background-position: center;
     
 }
